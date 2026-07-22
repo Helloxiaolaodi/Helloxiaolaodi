@@ -14,5 +14,4 @@
   </a>
 </p>
 
-[![GitHub Roast](https://ghfind.com/api/card/helloxiaolaodi?theme=light&variant=path&qr=1)](https://ghfind.com/u/helloxiaolaodi?ref=badge)
 [![GitHub Roast 评分徽章](https://ghfind.com/api/badge/helloxiaolaodi)](https://ghfind.com/u/helloxiaolaodi?ref=badge)
