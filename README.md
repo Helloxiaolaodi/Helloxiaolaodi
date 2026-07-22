@@ -15,3 +15,5 @@
 </p>
 
 [![GitHub Roast 评分徽章](https://ghfind.com/api/badge/helloxiaolaodi)](https://ghfind.com/u/helloxiaolaodi?ref=badge)
+
+[![GitHub Roast](https://ghfind.com/api/card/helloxiaolaodi?theme=dark&variant=path)](https://ghfind.com/u/helloxiaolaodi?ref=badge)
