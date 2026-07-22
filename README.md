@@ -13,3 +13,5 @@
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Helloxiaolaodi&layout=compact&theme=buefy&hide_border=true" alt="Top Langs" />
   </a>
 </p>
+
+[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/helloxiaolaodi)](https://ghfind.com/u/helloxiaolaodi?ref=badge)
