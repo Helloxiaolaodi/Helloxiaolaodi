@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<div align="right">
+<div align="center">
   <a href="https://ghfind.com/u/helloxiaolaodi?ref=badge">
     <img src="https://ghfind.com/api/badge/helloxiaolaodi" alt="GitHub Roast 评分徽章" />
   </a>
