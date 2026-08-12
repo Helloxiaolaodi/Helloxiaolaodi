@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://github.com/Helloxiaolaodi">
-    <img src="https://github-stats-extended.vercel.app/api?username=Helloxiaolaodi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Helloxiaolaodi's GitHub stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Helloxiaolaodi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&v=1" alt="Helloxiaolaodi's GitHub stats" />
   </a>
   <a href="https://github.com/Helloxiaolaodi">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Helloxiaolaodi&layout=compact&theme=buefy&hide_border=true" alt="Top Langs" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Helloxiaolaodi&layout=compact&theme=buefy&hide_border=true&v=2" alt="Top Langs" />
   </a>
 </p>
 
