@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://ghfind.com/u/helloxiaolaodi?ref=badge">
-    <img src="https://ghfind.com/api/badge/helloxiaolaodi" alt="GitHub Roast 评分徽章" />
+    <a href="https://ghfind.com/u/helloxiaolaodi?ref=badge"><img src="https://ghfind.com/api/badge/helloxiaolaodi" alt="GitHub Roast 评分徽章" /></a>
   </a>
 </div>
 
