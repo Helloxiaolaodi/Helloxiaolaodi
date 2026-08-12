@@ -20,6 +20,8 @@
   </a>
 </div>
 
+[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/helloxiaolaodi)](https://ghfind.com/u/helloxiaolaodi?ref=badge)
+
 <!-- 贪吃蛇动态图 (需配合 GitHub Actions 使用) -->
 <div align="center" style="margin: 20px 0; width: 100%;">
   <picture>
