@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://ghfind.com/u/helloxiaolaodi?ref=badge">
-    <img src="https://ghfind.com/api/card/mini/helloxiaolaodi?theme=light" alt="GitHub Roast 评分卡" width="440" />
+    <img src="https://ghfind.com/api/badge/helloxiaolaodi" alt="GitHub Roast 评分徽章" />
   </a>
 </div>
 
