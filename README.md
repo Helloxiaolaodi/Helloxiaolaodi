@@ -2,7 +2,7 @@
 
 <p align="center">
   藏锋于代码之间，寻道于科研之巅 <br><br>
-  🌱 欢迎阅读我的学习笔记与技术分享：<a href="https://helloxiaolaodi.github.io/Blog/" target="_blank">博客园 (cnBlogs)</a>
+  🌱 欢迎阅读我的学习笔记与技术分享：<a href="https://helloxiaolaodi.github.io/Blog/" target="_blank">博客 (Blogs)</a>
 </p>
 
 <p align="center">
